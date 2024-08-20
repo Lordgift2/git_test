@@ -1,2 +1,2 @@
-This is Lordgift first  git project
+hello odin
 
